@@ -21,8 +21,8 @@ const fsm = require('fs'); if (fsm.existsSync('config.env')) require('dotenv').c
 ╚═╝░░░░░╚═╝╚═════╝░ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗠𝗥 𝗗𝗜𝗟𝗔 𝗢𝗙𝗖
 */
 
-SESSION_ID: process.env.SESSION_ID || "", 
-MONGODB: process.env.MONGODB || "",
+SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-udtSXRbA#Pqn5mQWj08O_cn8fBFhGD4fWFw8WSw2Efje_v4xeCNs-DILALK", 
+MONGODB: process.env.MONGODB || "mongodb+srv://jhsab1195:z0SxcCgMnMBHF9V5@cluster0.ojrpcvc.mongodb.net/",
 
 
 
